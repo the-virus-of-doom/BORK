@@ -1,5 +1,7 @@
 # BORK
 
+Gabe the Dog was left at home while his owner was running errands. Unfortunately, his owner locked up Gabe's favorite toy: the magic ball. Gabe saw his owner lock it in the chest in his bedroom, but needs to find the spare key in the basement. Help Gabe find his ball so he can 'Bork' playfully again!
+
 ## Original
 
 The following was originally in the `main.cpp` file (as was everything else). The only changes made have been to redact personal information from the project and to move the `readme` and `todo` out of `main.cpp`. Additionally, some minor formatting changes have been put in place for markdown as these were originally plain text notes. Besides what has been mentioned, this project is unchanged from when it was submitted in 2019.
